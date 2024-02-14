@@ -1,0 +1,15 @@
+openai
+google-generativeai
+langchain
+pypdf
+python-dotenv
+ipykernel
+llama-index
+transformers
+einops
+accelerate
+bitsandbytes
+sentence_transformers
+llama-index-llms-huggingface
+huggingface_hub
+llama-index-embeddings-langchain
